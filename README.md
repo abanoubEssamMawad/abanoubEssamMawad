@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @abanoubEssamMawad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m abanoub essam
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Mobile Development
+- 📫 How to reach me ? 
+  phone: 01280680253
+  email: abanoub.e.mhanna@gmail.com
 
 <!---
 abanoubEssamMawad/abanoubEssamMawad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
